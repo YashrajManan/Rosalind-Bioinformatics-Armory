@@ -54,13 +54,7 @@ Additional files may be included when a problem requires them.
 
 ## Problems Solved
 
-  ------------------------------------------------------------------------------------------
-  Problem                 Topic                   Solution
-  ----------------------- ----------------------- ------------------------------------------
-  **FRMT - Data Formats** GenBank, FASTA, NCBI    [`FRMT/solution.py`](./FRMT/solution.py)
-                          Entrez, Biopython       
-
-  More to come            ---                     ---
+  till now 4 problems have been solved.
   ------------------------------------------------------------------------------------------
 
 This table will be updated as more problems are completed.
